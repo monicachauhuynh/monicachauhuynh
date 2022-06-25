@@ -2,7 +2,7 @@
 
 thanks for visiting my github! 
 
-i'm monica (she/her), currently studying computer science and business at ubc. i wrote my first line of code in Racket back in 2020, and since then the journey has been challenging yet super rewarding. in my free time i'm almost always in the kitchen to cook or on the hunt for the best dessert spots around vancouver :) 
+i'm monica (she/her), currently studying computer science and business at ubc. i wrote my first line of code in racket back in 2020, and since then the journey has been challenging yet super rewarding. in my free time i'm almost always in the kitchen to cook or on the hunt for the best dessert spots around vancouver :) 
 
 currently seeking fall 2022/ spring 2023 co-op opportunities.
 
