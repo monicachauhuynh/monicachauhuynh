@@ -4,6 +4,8 @@ Thanks for visiting my Github!
 
 I'm Monica (she/her), currently studying Computer Science and Business at UBC. I wrote my first line of code in Racket back in 2020, and since then the journey has been challenging yet super rewarding. In my free time I'm almost always in the kitchen to cook or on the hunt for the best dessert spots around Vancouver :) 
 
+Currently seeking Fall 2022/ Spring 2023 co-op opportunities.
+
 💬 LinkedIn: monicachauhuynh
 ⚡ Website: monicachauhuynh.github.io
 
