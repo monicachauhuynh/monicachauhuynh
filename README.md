@@ -1,13 +1,13 @@
-### Hi there 🌱
+### hi there 🌱
 
-Thanks for visiting my Github! 
+thanks for visiting my github! 
 
-I'm Monica (she/her), currently studying Computer Science and Business at UBC. I wrote my first line of code in Racket back in 2020, and since then the journey has been challenging yet super rewarding. In my free time I'm almost always in the kitchen to cook or on the hunt for the best dessert spots around Vancouver :) 
+i'm Monica (she/her), currently studying computer science and business at ubc. i wrote my first line of code in Racket back in 2020, and since then the journey has been challenging yet super rewarding. in my free time i'm almost always in the kitchen to cook or on the hunt for the best dessert spots around vancouver :) 
 
-Currently seeking Fall 2022/ Spring 2023 co-op opportunities.
+currently seeking fall 2022/ spring 2023 co-op opportunities.
 
-💬 LinkedIn: monicachauhuynh
-⚡ Website: monicachauhuynh.github.io
+💬 [linkedin](https://www.linkedin.com/in/monicachauhuynh/)
+⚡ [website](https://monicachauhuynh.github.io/)
 
 <!--
 **monicachauhuynh/monicachauhuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
