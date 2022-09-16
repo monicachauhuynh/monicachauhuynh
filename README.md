@@ -2,9 +2,9 @@
 
 thanks for visiting my github! 
 
-i'm monica (she/her), currently studying computer science and business at ubc. i wrote my first line of code in racket back in 2020, and since then the journey has been challenging yet super rewarding. 
+i'm monica (she/they), currently studying computer science and business at ubc. i wrote my first line of code in racket back in 2020, and since then the journey has been challenging yet super rewarding. 
 
-currently seeking fall 2022/ spring 2023 co-op opportunities.
+currently seeking summer - fall 2023 co-op opportunities.
 
 💬 [linkedin](https://www.linkedin.com/in/monicachauhuynh/)
 ⚡ [website](https://monicachauhuynh.github.io/)
