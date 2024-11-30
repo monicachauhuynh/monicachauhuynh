@@ -2,7 +2,7 @@
 
 thanks for visiting my github! 
 
-i'm monica (she/they), a ux designer based in vancouver. i'm currently studying computer science and business at ubc. 
+i'm monica (she/they), a product designer based in vancouver. 
 
 💬 [linkedin](https://www.linkedin.com/in/monicachauhuynh/)
 ⚡ [website](https://monicachauhuynh.com/)
